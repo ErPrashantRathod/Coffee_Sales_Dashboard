@@ -20,11 +20,11 @@ Discount Strategies: Introduce discounts or promotional offers on low-performing
 ---
 ## Tools & library -
 
-<img src="https://github.com/ErPrashantRathod/Coffee_Sales_Dashboard/blob/main/coffee-mug-grinded-beans-concept-260nw-2500190129.jpg" alt="logo" width="800" height="400"/>
+# Microsoft Excel
 
 
 # Data Story -
-## This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
+#### This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
 
 
 # Screenshot -
