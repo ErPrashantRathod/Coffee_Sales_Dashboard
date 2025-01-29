@@ -13,7 +13,6 @@ Revenue Growth: Revenue has shown a consistent upward trend, reflecting positive
 Best-Selling Product: The top category is coffee, with Barista Espresso being the most popular product across all stores. Low-Performing Products: Certain flavors, coffee beans, and merchandise items show lower sales. For instance, merchandise clothing sales at the Astoria store are significantly lower than in other stores.
 
 ---
-https://github.com/ErPrashantRathod/Coffee_Sales_Dashboard/blob/main/coffee-mug-grinded-beans-concept-260nw-2500190129.jpg
 
 ## Data-Driven Recommendations:
 Discount Strategies: Introduce discounts or promotional offers on low-performing products at the Astoria store to boost sales. Inventory Optimization: Consider limiting in-store display of underperforming products, like merchandise clothing, and shift to an online order-only model. This can help reduce operational costs.
