@@ -1,4 +1,5 @@
 # Coffee-Sales-Dashboard
+<img src="https://github.com/ErPrashantRathod/Coffee_Sales_Dashboard/blob/main/Coffeesalesdashboardss.png" alt="myql-logo" width="1000" height="500"/>
 
 This dashboard presents insights to the regional manager of a coffee chain with three stores. The goal is to provide actionable insights to optimize operations across the stores.
 
