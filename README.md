@@ -30,6 +30,6 @@ Discount Strategies: Introduce discounts or promotional offers on low-performing
 
 # Screenshot -
 
-<img src="https://github.com/ErPrashantRathod/Coffee_Sales_Dashboard/blob/main/Screenshot%202025-01-30%20171527.png" alt="myql-logo" width="1000" height="500"/>
+<img src="https://github.com/ErPrashantRathod/Coffee_Sales_Dashboard/blob/main/Dashboardscreenshot.png" alt="myql-logo" width="1000" height="500"/>
 
           (https://github.com/ErPrashantRathod/Coffee_Sales_Dashboard/blob/main/Coffeesalesdashboardss.png) &nbsp;
